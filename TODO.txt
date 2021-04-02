@@ -1,0 +1,8 @@
+- app.config.js > config > app.js
+- ports > .env
+
+- ressources
+https://sequelize.org/master/class/lib/associations/base.js~Association.html
+
+- migrations
+https://medium.com/@smallbee/how-to-use-sequelize-sync-without-difficulties-4645a8d96841

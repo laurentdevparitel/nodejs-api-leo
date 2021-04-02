@@ -1,0 +1,35 @@
+[
+  {
+    "id": "5f182e5bb6d211f4ddd99e9b",
+    "profile": {
+      "firstName": "Jodie",
+      "lastName": "Copeland"
+    },
+    "email": "jodie.copeland@gmail.com",
+    "address": "930 Lewis Avenue, Bonanza, Idaho, 7682",
+    "registered": "2018-04-17T04:59:45.195Z",
+    "isActive": true
+  },
+  {
+    "id": "5f182e5bec63e923b1fccba2",
+    "profile": {
+      "firstName": "Deanne",
+      "lastName": "Mayer"
+    },
+    "email": "deanne.mayer@gmail.com",
+    "address": "109 Cumberland Walk, Eureka, South Dakota, 8526",
+    "registered": "2019-10-21T09:30:21.957Z",
+    "isActive": true
+  },
+  {
+    "id": "5f182e5b78913c5cf512039f",
+    "profile": {
+      "firstName": "Wolf",
+      "lastName": "Durham"
+    },
+    "email": "wolf.durham@gmail.com",
+    "address": "288 Vernon Avenue, Bowden, California, 3436",
+    "registered": "2018-04-13T09:40:40.731Z",
+    "isActive": true
+  }
+]
